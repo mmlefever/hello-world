@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
-Just taking a tutorial
+Just another repository.
+I am learning about Github
