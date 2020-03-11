@@ -1,3 +1,5 @@
 # hello-world
-Just another repository.
-I am learning about Github
+
+Hi there,
+This is just another repository.
+I am learning about Github and playing around.
